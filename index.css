@@ -1,0 +1,30 @@
+#section-count{
+    background: #f8fbfe;
+}
+#section-count h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+#logo img {
+    max-width: 55%;
+    filter: grayscale(100);
+    transition: all 0.4s ease-in-out;
+}
+
+#logo img:hover {
+    filter: grayscale(0);
+    transform: scale(1.15);
+}
+#logo{
+    background: #f8fbfe;
+}
+
+.testimony-person img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+
+
+
